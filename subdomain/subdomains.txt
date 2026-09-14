@@ -1,7 +1,0 @@
-www
-mail
-ftp
-admin
-api
-dev
-test
